@@ -1,7 +1,9 @@
-# Earthquake Hub Relocation Analysis (In Progress)
+# Earthquake Hub Relocation Analysis 
 
 ## Introduction
 Natural disasters like earthquakes can overwhelm local resources such as hospitals, medical services, and transportation, leaving many victims without the aid they need. In the aftermath of a major earthquake, bottlenecks in logistics can further complicate emergency response efforts. The objective of this project is to examine earthquake activity worldwide and identify the best locations to establish "resource hubs" that can be easily accessed by non-profit disaster relief organizations like The Red Cross and Direct Relief. By mapping earthquake data and analyzing logistical factors, this project aims to help these organizations be better prepared and respond more effectively in the event of an earthquake.
+
+Feel free to check out this [interactive earthquake visual](https://public.tableau.com/app/profile/josephmsmith/viz/WWE_Visualizations/Final) created in conjunction with the presentation
 
 ## Purpose
 Are the best locations for resource hubs located near the most active earthquake sites? What neighboring locations can be safe locations for these hubs?
